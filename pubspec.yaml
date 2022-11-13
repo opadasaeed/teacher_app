@@ -1,0 +1,90 @@
+name: teacher_app
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  get_it: ^7.2.0
+  shared_preferences: ^2.0.15
+  flutter_bloc: ^8.1.1
+  bloc: ^8.1.0
+  responsive_framework: ^0.2.0
+  flutter_translate: ^4.0.3
+  fluttertoast: ^8.1.1
+  #  package_info: ^2.0.2
+  #  url_launcher: ^6.0.9
+  #  image_picker: ^0.8.4+2
+  dio: ^4.0.6
+  dartz: ^0.10.1
+  flutter_svg: ^1.1.6
+  dropdown_search: ^2.0.1
+  pin_code_fields: ^7.4.0
+  salomon_bottom_bar: ^3.3.1
+  carousel_slider: ^4.1.1
+  video_player: ^2.4.7
+  percent_indicator: ^4.2.2
+  url_launcher: ^6.1.6
+  lottie: ^1.4.3
+  firebase_core: ^2.1.1
+  youtube_explode_dart: ^1.12.1
+  firebase_messaging: ^14.0.3
+  cloud_firestore: ^4.0.3
+  firebase_auth: ^4.1.0
+  circular_countdown_timer: ^0.2.3
+  toast: ^0.3.0
+  line_awesome_flutter: ^2.0.0
+  bottom_indicator_bar: ^2.0.0
+  flutter_windowmanager: ^0.2.0
+  google_sign_in: ^5.4.2
+  flutter_login_facebook: ^1.6.1
+  youtube_player_flutter: ^8.1.1
+  path_provider: any
+  html: ^0.15.1
+  video_box: ^0.17.0
+  showcaseview: ^1.1.8
+  image_picker: ^0.8.6
+  firebase_storage: ^11.0.3
+  pretty_dio_logger: ^1.1.1
+  file_picker: ^5.2.2
+  syncfusion_flutter_pdfviewer: ^20.3.52
+  package_info_plus: ^3.0.1
+  encrypt: ^5.0.1
+  flutter_jailbreak_detection: ^1.8.0
+  device_info_plus: ^8.0.0
+  sign_in_with_apple: ^4.1.0
+  sentry_flutter: ^6.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/i18n/
+    - assets/animations/
+  fonts:
+    - family: MadaniArabic-Medium
+      fonts:
+        - asset: assets/fonts/MadaniArabic-Medium.ttf

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> Icon/Facebook</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-Sign-in-with-Facebook" transform="translate(-17.000000, -15.000000)">
+            <g id="Group" transform="translate(16.000000, 14.000000)">
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12" cy="12" r="10.2857143"></circle>
+                <path d="M11.0649429,22.2438 L11.0649429,14.8051714 L9.19482856,14.8051714 L9.19482856,12.4675714 L11.0649429,12.4675714 L11.0649429,10.1298857 C11.0649429,8.58042856 12.3207429,7.32467998 13.8701143,7.32467998 L15.7403143,7.32467998 L15.7403143,9.66231428 L14.8051714,9.66231428 C14.2890857,9.66231428 13.8701143,10.0812857 13.8701143,10.5973714 L13.8701143,12.4675714 L16.6753714,12.4675714 L15.7403143,14.8051714 L13.8701143,14.8051714 L13.8701143,22.1160858 C13.2636857,22.2275143 12.6386571,22.2857143 12,22.2857143 C11.6848286,22.2857143 11.3729143,22.2715715 11.0649429,22.2438 Z" id="Path" fill="#4A72FC"></path>
+            </g>
+        </g>
+    </g>
+</svg>
